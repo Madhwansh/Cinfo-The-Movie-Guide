@@ -14,7 +14,7 @@ Screenshots
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/Cinfo.git
+git clone https://github.com/Madhwansh/Cinfo-The-Movie-Guide.git
 
 Navigate to the project directory:
 cd Cinfo
@@ -28,7 +28,11 @@ Run the application:
 npm start
 
 
+ScreenShots
+<img width="182" alt="Cast Details" src="https://github.com/Madhwansh/Cinfo-The-Movie-Guide/assets/108359887/02a1ff04-2dd3-4202-b904-66fe0529f427">
 
+<img width="188" alt="Home" src="https://github.com/Madhwansh/Cinfo-The-Movie-Guide/assets/108359887/89d607b3-f8b5-411f-a662-c4d14a1dbee4">
+<img width="187" alt="Movie Details" src="https://github.com/Madhwansh/Cinfo-The-Movie-Guide/assets/108359887/51e5e134-244c-4bd6-8412-d3ec45eb5214">
 
 
 Usage
